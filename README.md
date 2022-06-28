@@ -111,7 +111,3 @@ If not found, all of the required packages will be installed on first run
 
 ### This repository is open source to help others. So if you wish to copy, consider giving credit!
 
-## Credits: <a href="https://github.com/htr-tech/zphisher">HTR-Tech</a> and <a href="https://github.com/jaykali/maskphish">JayKali</a>
-
-####  If this tool helped you, consider staring repository. Your stars encourage me a lot!
-
