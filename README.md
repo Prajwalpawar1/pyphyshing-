@@ -115,9 +115,3 @@ If not found, all of the required packages will be installed on first run
 
 ####  If this tool helped you, consider staring repository. Your stars encourage me a lot!
 
-## [+] Find Me on :
-<ul>
-<li><a href="https://facebook.com/KasRoudra"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/facebook.png" alt="facebook" width="20px" height="20px"></a></li>
-<li><a href="https://m.me/KasRoudra"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/messenger.png" alt="messenger" width="20px" height="20px"></a></li>
-<li><a href="mailto://kasroudrakrd@gmail.com"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/gmail.png" alt="email" width="20px" height="20px"></a></li>
-</ul>
