@@ -34,7 +34,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/Prajwalpawar1/pyphyshing-```
 
 ##### Enter the directory
  - ```cd PyPhisher```
@@ -99,12 +99,11 @@ If not found, all of the required packages will be installed on first run
 4. Send the generated link to victim
 5. Wait for victim login. As soon as he/she logs in, credentials will be captured
 
-<h1 align="center">Example</h1>
 
 ![PyPhisher](files/pyphisher.gif)
 
-## Video Tutorial
-<a href="https://rebrand.ly/pyphishervideo">PyPhisher Video</a>
+## AUTHOR :
+ `WHITE DEVIL(pawar prajwal)`
 
 ## [+] Disclaimer
 ***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of PyPhisher!***
